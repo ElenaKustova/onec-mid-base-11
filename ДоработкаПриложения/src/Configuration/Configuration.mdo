@@ -55,5 +55,10 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
+  <documents>Document.ОплатаОтПокупателя</documents>
+  <documents>Document.ОплатаПоставщику</documents>
+  <documents>Document.ПоступлениеТоваровУслуг</documents>
+  <documents>Document.РеализацияТоваровУслуг</documents>
 </mdclass:Configuration>
