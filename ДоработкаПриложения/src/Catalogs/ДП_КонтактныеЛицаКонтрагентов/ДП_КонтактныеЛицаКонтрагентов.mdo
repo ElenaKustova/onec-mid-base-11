@@ -13,8 +13,8 @@
     <value>Контактные лица контрагентов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ДП_КонтактныеЛицаКонтрагентов.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ДП_КонтактныеЛицаКонтрагентов.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ДП_КонтактныеЛицаКонтрагентов.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <fullTextSearch>Use</fullTextSearch>

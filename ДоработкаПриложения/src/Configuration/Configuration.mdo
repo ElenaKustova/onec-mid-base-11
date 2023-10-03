@@ -47,9 +47,13 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
+  <styleItems>StyleItem.ТекстЗапрещеннойЯчейкиЦвет</styleItems>
   <roles>Role.ДП_ОсновнаяРоль</roles>
+  <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДП_Должности</catalogs>
   <catalogs>Catalog.ДП_КонтактныеЛицаКонтрагентов</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
 </mdclass:Configuration>
